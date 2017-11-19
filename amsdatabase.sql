@@ -136,7 +136,8 @@ CREATE TABLE `tbl_surat_keluar` (
 INSERT INTO tbl_surat_keluar VALUES("2","1","Siswa","420 / 015 /SMK.AH/VIII/2015","Surat edaran untuk mengikuti kegiatan sholat Idhul Adha di sekolah.","421.6","2015-08-28","2016-07-24","4718-surat keluar 1.jpg","Wajib","5");
 INSERT INTO tbl_surat_keluar VALUES("3","2","Darmaji, S.T. (Guru)","421 / 056 /SMK-AH / XII /2015","Surat tugas untuk menghadiri undangan Penganugerahan Bursa Khusus SMK","421","2015-12-07","2016-07-24","7773-surat keluar 2.jpg","-","5");
 INSERT INTO tbl_surat_keluar VALUES("4","3","Siswa","421/059/SMK-AH/XII/2015","Surat edaran pelaksanaan praktik kerja industri (Prakerin)","421","2015-12-17","2016-07-24","","Penting","5");
-INSERT INTO tbl_surat_keluar VALUES("5","4","Guru","042/067 / SMk-AH/I/2016","Surat undangan rapat dinas koordinasi ujian sekolah\n","421","2016-02-01","2016-07-24","","Wajib Hadir","5");
+INSERT INTO tbl_surat_keluar VALUES("5","4","Guru","042/067 / SMk-AH/I/2016","Surat undangan rapat dinas koordinasi ujian sekolah
+\n","421","2016-02-01","2016-07-24","","Wajib Hadir","5");
 
 
 
